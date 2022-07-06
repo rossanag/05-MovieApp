@@ -1,2 +1,2 @@
 # 05-MovieApp
-An Android React Native app made for learning purposes
+An Android React Native app made for learning purposes - (master branch)
